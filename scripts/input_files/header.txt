@@ -1,0 +1,7 @@
+#!/bin/bash
+#PBS -q sequentiel
+#PBS -l ncpus=1
+#PBS -l mem=32gb
+#PBS -l walltime=02:00:00
+#PBS -o path to log dir
+#PBS -e path to log dir
